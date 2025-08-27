@@ -32,7 +32,7 @@ tl.to(".line h2",{
 tl.to("#loader",{
     opacity : 0,
     duration  : 0.1,
-    delay : 3
+    delay : 2.5
     
 })
 tl.from("#page1",{
